@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2](https://github.com/OBMS-Open-Business-Management-Software/module-sdk/compare/v1.0.1...v1.0.2) (2025-03-26)
+
+
+### Bug Fixes
+
+* module capabilities identification ([fd534a7](https://github.com/OBMS-Open-Business-Management-Software/module-sdk/commit/fd534a7e30ec86c43eed6d0bd51ec3cfc01e558f))
+
 ## [1.0.1](https://github.com/OBMS-Open-Business-Management-Software/module-sdk/compare/v1.0.0...v1.0.1) (2025-03-26)
 
 
