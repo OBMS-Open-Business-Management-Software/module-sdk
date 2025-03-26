@@ -1,0 +1,25 @@
+{
+    "name": "obms/module-sdk",
+    "type": "module",
+    "description": "The OBMS module SDK.",
+    "keywords": ["obms", "open business management software"],
+    "license": "BUSL-1.1",
+    "autoload": {
+        "psr-4": {
+            "OBMS\\ModuleSDK\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "obms/core": "^1.19"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.13",
+        "phpstan/phpstan": "^1.10"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
