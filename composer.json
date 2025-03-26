@@ -11,7 +11,7 @@
     },
     "require": {
         "php": "^8.2",
-        "obms/core": "^1.19"
+        "obms/core": "*"
     },
     "require-dev": {
         "laravel/pint": "^1.13",
