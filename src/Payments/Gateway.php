@@ -39,6 +39,13 @@ interface Gateway
     public function technicalName(): string;
 
     /**
+     * Get payment method folder name.
+     *
+     * @return string
+     */
+    public function folderName(): string;
+
+    /**
      * Get payment method name.
      *
      * @return string
