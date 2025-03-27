@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/OBMS-Open-Business-Management-Software/module-sdk/compare/v1.0.2...v1.1.0) (2025-03-27)
+
+
+### Features
+
+* payment gateway folder identification ([ce0042e](https://github.com/OBMS-Open-Business-Management-Software/module-sdk/commit/ce0042e59f23b3ab30d78ac26b7767c292a85e12))
+
 ## [1.0.2](https://github.com/OBMS-Open-Business-Management-Software/module-sdk/compare/v1.0.1...v1.0.2) (2025-03-26)
 
 
